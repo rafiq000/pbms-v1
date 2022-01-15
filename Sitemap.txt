@@ -1,0 +1,15 @@
+root
+    admin
+        login
+            dashbord
+    home
+        customer
+            login
+                dashbord
+        manager
+            login
+                dashbord
+    about
+        about app
+    contact
+        contact via mail
